@@ -45,7 +45,8 @@ index.update();
 circle.move(-2, 3);
 index.update();
 circle.move(1, 2);
+index.update();
 
 // Returns a ShapeSet that contains the BoundingBoxes that overlap the input box.
-index.query(new kdtree.BoundingBox([[-1, 1], [-1, 1]]);
+index.query(new kdtree.BoundingBox([[-1, 1], [-1, 1]]));
 ```

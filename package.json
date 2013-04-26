@@ -1,8 +1,8 @@
 {
-  "name": "kdtree",
+  "name": "lazykdtree",
   "version": "0.0.0-0",
-  "main": "kdtree",
-  "description": "A Node.js KDTree implementation with lazy indexing for sparse object collision detection.",
+  "main": "lazykdtree",
+  "description": "A Node.js KDTree implementation with lazy indexing for real-time sparse object collision detection.",
   "author": {
     "name": "Sebastian Goodman"
   },
